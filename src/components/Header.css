@@ -1,0 +1,28 @@
+
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #1165ba;
+      }
+  
+      .header .logo {
+        font-size: 35px;
+        font-family: 'sans-serif';
+        color: #b1edff;
+        text-decoration: none;
+        margin-left: 30px;
+      }
+  
+      .nav-items {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin-right: 20px;
+      }
+  
+      .nav-items a {
+        text-decoration: none;
+        color: #b1edff;
+        padding: 35px 20px;
+      }
